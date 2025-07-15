@@ -18,7 +18,7 @@ Perfect for showcasing your dev skills in a unique and geeky way ⚡
 
 ## 📦 Live Demo & Download
 
-📥 **Download Code**: [Telegram](https://t.me/abinfo_tech) | [GitHub ZIP](https://github.com/abinfotechreal/ABTERM/blob/main/AB TERM.zip)
+📥 **Download Code**: [Telegram](https://t.me/abinfo_tech) | [GitHub ZIP](https://github.com/abinfotechreal/ABTERM/blob/main/ABTERM.zip)
 
 ---
 
