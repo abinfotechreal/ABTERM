@@ -6,7 +6,7 @@ Perfect for showcasing your dev skills in a unique and geeky way ⚡
 
 ## 🚀 Preview
 
-![Terminal Portfolio Preview](https://github.com/abinfotechreal/ABTERM/preview.png)
+![Terminal Portfolio Preview](https://github.com/abinfotechreal/ABTERM/blob/main/preview.png)
 
 ## 🛠️ Features
 
@@ -18,7 +18,7 @@ Perfect for showcasing your dev skills in a unique and geeky way ⚡
 
 ## 📦 Live Demo & Download
 
-📥 **Download Code**: [Telegram](https://t.me/abinfo_tech) | [GitHub ZIP](https://github.com/abinfotechreal/ABTERM.zip)
+📥 **Download Code**: [Telegram](https://t.me/abinfo_tech) | [GitHub ZIP](https://github.com/abinfotechreal/ABTERM/blob/main/AB TERM.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Perfect for showcasing your dev skills in a unique and geeky way ⚡
 
 ## 📸 Screenshot
 
-![Screenshot](https://github.com/abinfotechreal/ABTERM/preview.png)
+![Screenshot](https://github.com/abinfotechreal/ABTERM/blob/main/preview.png)
 
 ---
 
